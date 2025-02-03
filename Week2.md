@@ -1,6 +1,6 @@
 ### Profile: Athul Krishna
 
-# Week 1
+# Week 2
 
 # What we did
 - We completed our Client meetings and asked the needed questions
