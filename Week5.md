@@ -7,4 +7,4 @@
 - STAR report
 
 # What to do
-- Worn on the feedback given by the Client
+- Work on the feedback given by the Client
