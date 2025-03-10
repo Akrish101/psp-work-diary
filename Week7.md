@@ -1,6 +1,6 @@
 ### Profile: Athul Krishna
 
-# Week 6
+# Week 7
 
 # What we did
 - STAR Report
