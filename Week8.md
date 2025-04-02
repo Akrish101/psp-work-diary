@@ -3,7 +3,7 @@
 # Week 8 - Sprint Week
 
 # What we did
-# Day 1 - Finalizing the Website
+## Day 1 - Finalizing the Website
 - Wrapped up the entire website for the client's presentation.
 - Ensured core features were fully functional and polished.
 
